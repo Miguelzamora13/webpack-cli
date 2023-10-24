@@ -115,3 +115,4 @@ If you like **webpack**, please consider donating through [Open Collective](http
 ## Code of Conduct
 
 Guidelines to how the webpack organization expects you to behave is documented under [Code of Conduct](./CODE_OF_CONDUCT.md)
+
